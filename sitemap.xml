@@ -133,10 +133,6 @@
 <lastmod>2024-12-11T04:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/news/VR26paper/</loc>
-<lastmod>2024-12-11T04:00:00+00:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/news/nsf_immercom/</loc>
 <lastmod>2025-01-01T04:00:00+00:00</lastmod>
 </url>
@@ -187,6 +183,10 @@
 <url>
 <loc>http://localhost:4000/news/MRl-talk/</loc>
 <lastmod>2025-12-01T04:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/news/VR26paper/</loc>
+<lastmod>2025-12-13T04:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2017/01/01/my-example-post.html</loc>
